@@ -1,0 +1,6 @@
+{
+  "name": "BNBC & PWD Quantity Takeoff & BOQ Estimator",
+  "description": "Advanced Bangladesh National Building Code (BNBC) and PWD rate schedule compliant quantity takeoff, BOQ estimation, and project cost monitoring platform with AI PDF extraction, metric/imperial precision tools, and team RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
